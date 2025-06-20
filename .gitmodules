@@ -1,3 +1,6 @@
-[submodule "stuff/module-1-github-classroom-assignment-practice-cestlaviet8438"]
-	path = stuff/module-1-github-classroom-assignment-practice-cestlaviet8438
+[submodule "stuff/module-1/module-1-python-crash-course-problem-set-cestlaviet8438"]
+	path = stuff/module-1/module-1-python-crash-course-problem-set-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-1-python-crash-course-problem-set-cestlaviet8438.git
+[submodule "stuff/module-1/module-1-github-classroom-assignment-practice-cestlaviet8438"]
+	path = stuff/module-1/module-1-github-classroom-assignment-practice-cestlaviet8438
 	url = https://github.com/goacs2python2025summer-ghazaryan/module-1-github-classroom-assignment-practice-cestlaviet8438.git
