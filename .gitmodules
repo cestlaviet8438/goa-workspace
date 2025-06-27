@@ -7,3 +7,9 @@
 [submodule "stuff/module-2/module-2-importing-modules-and-packages-cestlaviet8438"]
 	path = stuff/module-2/module-2-importing-modules-and-packages-cestlaviet8438
 	url = https://github.com/goacs2python2025summer-ghazaryan/module-2-importing-modules-and-packages-cestlaviet8438.git
+[submodule "stuff/module-2/module-2-animation-problem-set-cestlaviet8438"]
+	path = stuff/module-2/module-2-animation-problem-set-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-2-animation-problem-set-cestlaviet8438.git
+[submodule "stuff/module-2/module-2-programs-with-inputs-cestlaviet8438"]
+	path = stuff/module-2/module-2-programs-with-inputs-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-2-programs-with-inputs-cestlaviet8438.git
