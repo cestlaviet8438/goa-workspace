@@ -16,3 +16,9 @@
 [submodule "stuff/module-2/module-2-interactive-programs-problem-set-cestlaviet8438"]
 	path = stuff/module-2/module-2-interactive-programs-problem-set-cestlaviet8438
 	url = https://github.com/goacs2python2025summer-ghazaryan/module-2-interactive-programs-problem-set-cestlaviet8438.git
+[submodule "stuff/module-3/module-3-bokeh-and-lists-practice-cestlaviet8438"]
+	path = stuff/module-3/module-3-bokeh-and-lists-practice-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-3-bokeh-and-lists-practice-cestlaviet8438.git
+[submodule "stuff/module-3/module-3-bokeh-problem-set-cestlaviet8438"]
+	path = stuff/module-3/module-3-bokeh-problem-set-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-3-bokeh-problem-set-cestlaviet8438.git
