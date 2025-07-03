@@ -22,3 +22,6 @@
 [submodule "stuff/module-3/module-3-bokeh-problem-set-cestlaviet8438"]
 	path = stuff/module-3/module-3-bokeh-problem-set-cestlaviet8438
 	url = https://github.com/goacs2python2025summer-ghazaryan/module-3-bokeh-problem-set-cestlaviet8438.git
+[submodule "stuff/module-3/module-3-individual-tournament-problem-set-cestlaviet8438"]
+	path = stuff/module-3/module-3-individual-tournament-problem-set-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-3-individual-tournament-problem-set-cestlaviet8438.git
