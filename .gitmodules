@@ -25,3 +25,18 @@
 [submodule "stuff/module-3/module-3-individual-tournament-problem-set-cestlaviet8438"]
 	path = stuff/module-3/module-3-individual-tournament-problem-set-cestlaviet8438
 	url = https://github.com/goacs2python2025summer-ghazaryan/module-3-individual-tournament-problem-set-cestlaviet8438.git
+[submodule "stuff/module-3/module-3-team-tournament-bart"]
+	path = stuff/module-3/module-3-team-tournament-bart
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-3-team-tournament-bart.git
+[submodule "stuff/module-4/module-4-files-practice-cestlaviet8438"]
+	path = stuff/module-4/module-4-files-practice-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-4-files-practice-cestlaviet8438.git
+[submodule "stuff/module-4/module-4-files-problem-set-cestlaviet8438"]
+	path = stuff/module-4/module-4-files-problem-set-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-4-files-problem-set-cestlaviet8438.git
+[submodule "stuff/module-4/module-4-classes-practice-cestlaviet8438"]
+	path = stuff/module-4/module-4-classes-practice-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-4-classes-practice-cestlaviet8438
+[submodule "stuff/module-4/module-4-classes-problem-set-cestlaviet8438"]
+	path = stuff/module-4/module-4-classes-problem-set-cestlaviet8438
+	url = https://github.com/goacs2python2025summer-ghazaryan/module-4-classes-problem-set-cestlaviet8438
